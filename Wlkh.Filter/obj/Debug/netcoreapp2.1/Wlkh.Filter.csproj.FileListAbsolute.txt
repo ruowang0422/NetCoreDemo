@@ -1,0 +1,16 @@
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Wlkh.Filter.deps.json
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Wlkh.Filter.runtimeconfig.json
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Wlkh.Filter.runtimeconfig.dev.json
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Wlkh.Filter.dll
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\bin\Debug\netcoreapp2.1\Wlkh.Filter.pdb
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.csprojAssemblyReference.cache
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.csproj.CoreCompileInputs.cache
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.RazorAssemblyInfo.cache
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.RazorAssemblyInfo.cs
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.AssemblyInfoInputs.cache
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.AssemblyInfo.cs
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.RazorTargetAssemblyInfo.cache
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.dll
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.pdb
+E:\雾里看花\Git项目\NetCoreDemo\Wlkh.Filter\obj\Debug\netcoreapp2.1\Wlkh.Filter.genruntimeconfig.cache
